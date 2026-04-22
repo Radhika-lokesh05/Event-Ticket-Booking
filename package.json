@@ -1,0 +1,21 @@
+{
+  "name": "fst-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Radhika-lokesh05/FST-Demo#readme",
+  "bugs": {
+    "url": "https://github.com/Radhika-lokesh05/FST-Demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radhika-lokesh05/FST-Demo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
